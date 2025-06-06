@@ -58,7 +58,6 @@ coverage.xml
 Thumbs.db
 
 # Data
-data/
 
 # Environment
 .env
