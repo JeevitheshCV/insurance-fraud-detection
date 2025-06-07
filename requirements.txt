@@ -21,3 +21,4 @@ sphinx
 pytest
 pre-commit
 prefect
+evidently
