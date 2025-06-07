@@ -20,3 +20,4 @@ gcsfs
 sphinx
 pytest
 pre-commit
+prefect
