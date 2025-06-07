@@ -22,3 +22,7 @@ pytest
 pre-commit
 prefect
 evidently
+fastapi
+uvicorn
+pandas
+scikit-learn
